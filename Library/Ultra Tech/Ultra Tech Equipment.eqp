@@ -37593,7 +37593,7 @@
 				"Weaponry"
 			],
 			"base_value": "14000",
-			"base_weight": "33 lb",
+			"base_weight": "34 lb",
 			"weapons": [
 				{
 					"id": "W6-C_sQqk0Ak_c-8_",
@@ -37643,8 +37643,8 @@
 			"calc": {
 				"value": 14000,
 				"extended_value": 14000,
-				"weight": "33 lb",
-				"extended_weight": "33 lb"
+				"weight": "34 lb",
+				"extended_weight": "34 lb"
 			}
 		},
 		{
