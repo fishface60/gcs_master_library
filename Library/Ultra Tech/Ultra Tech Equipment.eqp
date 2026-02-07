@@ -33109,7 +33109,7 @@
 				"Weaponry"
 			],
 			"base_value": "3000",
-			"base_weight": "15 lb",
+			"base_weight": "15.7 lb",
 			"weapons": [
 				{
 					"id": "W5_HQQYf_zjoG9A7J",
@@ -33151,7 +33151,7 @@
 					"id": "fJvnOlNed-yMjv0e0",
 					"name": "Using unloaded stats",
 					"cost": "-42",
-					"weight": "-5 lb",
+					"weight": "-5.7 lb",
 					"disabled": true
 				}
 			],
@@ -33159,15 +33159,15 @@
 			"calc": {
 				"value": 3000,
 				"extended_value": 3000,
-				"weight": "15 lb",
-				"extended_weight": "15 lb"
+				"weight": "15.7 lb",
+				"extended_weight": "15.7 lb"
 			}
 		},
 		{
 			"id": "EUBEU_uJ-mEHcR9A_",
 			"description": "Light Support Weapon, 7mmCL, 200-round magazine",
 			"reference": "UT138,LOSC8",
-			"local_notes": "Requires 7mmCL ammunition; weight is erroneous",
+			"local_notes": "Requires 7mmCL ammunition",
 			"tech_level": "9",
 			"legality_class": "3",
 			"tags": [
@@ -33176,14 +33176,14 @@
 				"Missile Weapon"
 			],
 			"base_value": "42",
-			"base_weight": "0",
+			"base_weight": "0.3",
 			"quantity": 1,
 			"equipped": true,
 			"calc": {
 				"value": 42,
 				"extended_value": 42,
-				"weight": "0 lb",
-				"extended_weight": "0 lb"
+				"weight": "0.3 lb",
+				"extended_weight": "0.3 lb"
 			}
 		},
 		{
@@ -38597,7 +38597,7 @@
 				"Weaponry"
 			],
 			"base_value": "14000",
-			"base_weight": "33 lb",
+			"base_weight": "34 lb",
 			"weapons": [
 				{
 					"id": "W6-C_sQqk0Ak_c-8_",
@@ -38639,7 +38639,7 @@
 					"id": "f5KOXMwUWVlnKs9-v",
 					"name": "Using unloaded stats",
 					"cost": "-69",
-					"weight": "-10 lb",
+					"weight": "-11 lb",
 					"disabled": true
 				}
 			],
@@ -38647,15 +38647,15 @@
 			"calc": {
 				"value": 14000,
 				"extended_value": 14000,
-				"weight": "33 lb",
-				"extended_weight": "33 lb"
+				"weight": "34 lb",
+				"extended_weight": "34 lb"
 			}
 		},
 		{
 			"id": "Ezo5J_yqnwEMhtXpW",
 			"description": "Minigun, 7mmCL, 400-round magazine",
 			"reference": "UT138,LOSC8",
-			"local_notes": "Requires 7mmCL ammunition; weight is erroneous",
+			"local_notes": "Requires 7mmCL ammunition",
 			"tech_level": "9",
 			"legality_class": "3",
 			"tags": [
@@ -38664,14 +38664,14 @@
 				"Missile Weapon"
 			],
 			"base_value": "69",
-			"base_weight": "0",
+			"base_weight": "0.2",
 			"quantity": 1,
 			"equipped": true,
 			"calc": {
 				"value": 69,
 				"extended_value": 69,
-				"weight": "0 lb",
-				"extended_weight": "0 lb"
+				"weight": "0.2 lb",
+				"extended_weight": "0.2 lb"
 			}
 		},
 		{
