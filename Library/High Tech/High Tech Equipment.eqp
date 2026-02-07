@@ -50893,7 +50893,7 @@
 					"accuracy": "5",
 					"range": "1,000/4,200",
 					"rate_of_fire": "15!",
-					"shots": "100(5)",
+					"shots": "50(5)",
 					"bulk": "-7*",
 					"recoil": "2",
 					"defaults": [
@@ -50974,7 +50974,7 @@
 				{
 					"id": "fedsuvsSBX1wLghfW",
 					"name": "Using unloaded stats",
-					"cost": "-60",
+					"cost": "-30",
 					"weight": "-6.6 lb",
 					"disabled": true
 				}
