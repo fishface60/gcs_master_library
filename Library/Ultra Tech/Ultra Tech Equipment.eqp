@@ -1165,6 +1165,26 @@
 			}
 		},
 		{
+			"id": "eM8L0kYZQ1d9mYzcQ",
+			"description": "15mm paint",
+			"reference": "UT140",
+			"tech_level": "9",
+			"legality_class": "4",
+			"tags": [
+				"Ammunition",
+				"Weaponry"
+			],
+			"base_value": "0.5",
+			"base_weight": "0.005 lb",
+			"quantity": 1,
+			"calc": {
+				"value": 0.5,
+				"extended_value": 0.5,
+				"weight": "0.005 lb",
+				"extended_weight": "0.005 lb"
+			}
+		},
+		{
 			"id": "eLX3pHRRnBjt0wJaX",
 			"description": "15mm gyroc",
 			"reference": "UT145",
