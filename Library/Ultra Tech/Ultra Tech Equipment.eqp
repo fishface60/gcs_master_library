@@ -32187,7 +32187,7 @@
 			"id": "EUBEU_uJ-mEHcR9A_",
 			"description": "Light Support Weapon, 7mmCL, 200-round magazine",
 			"reference": "UT138,LOSC8",
-			"local_notes": "Requires 7mmCL ammunition; weight is erroneous",
+			"local_notes": "Requires 7mmCL ammunition",
 			"tech_level": "9",
 			"legality_class": "3",
 			"tags": [
@@ -32196,14 +32196,14 @@
 				"Missile Weapon"
 			],
 			"base_value": "42",
-			"base_weight": "0",
+			"base_weight": "0.3",
 			"quantity": 1,
 			"equipped": true,
 			"calc": {
 				"value": 42,
 				"extended_value": 42,
-				"weight": "0 lb",
-				"extended_weight": "0 lb"
+				"weight": "0.3 lb",
+				"extended_weight": "0.3 lb"
 			}
 		},
 		{
