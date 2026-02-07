@@ -2848,6 +2848,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fPlTyRXenhKKN2_KI",
+					"name": "Using unloaded stats",
+					"cost": "-25",
+					"weight": "-2 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 8000,
@@ -3912,6 +3921,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fxn7M5tCOgzNt_6Jp",
+					"name": "Using unloaded stats",
+					"cost": "-55",
+					"weight": "-12 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 17000,
@@ -3989,6 +4007,15 @@
 					"calc": {
 						"damage": "6d pi"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f848_dSKw7yo6BS3g",
+					"name": "Using unloaded stats",
+					"cost": "-21.75",
+					"weight": "-1.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -6859,6 +6886,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fYs_C3RiASJ1Xde4R",
+					"name": "Using unloaded stats",
+					"cost": "-17.3",
+					"weight": "-0.75 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 450,
@@ -7260,6 +7296,15 @@
 					"calc": {
 						"damage": "4d+4 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fHvLo2-KnIXtFWAtg",
+					"name": "Using unloaded stats",
+					"cost": "-19.6",
+					"weight": "-1.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -17598,6 +17643,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f_mwdu6wabXwFERn0",
+					"name": "Using unloaded stats",
+					"cost": "-24",
+					"weight": "-2 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 2400,
@@ -20367,6 +20421,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fmECMSRuJ1JYDcfSP",
+					"name": "Using unloaded stats",
+					"cost": "-20",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 500,
@@ -20444,6 +20507,15 @@
 					"calc": {
 						"damage": "6d pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fUlYtcQCqvuhRbh_i",
+					"name": "Using unloaded stats",
+					"cost": "-18.5",
+					"weight": "-0.7 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -20525,6 +20597,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fQA89h9pE5gTlfzsD",
+					"name": "Using unloaded stats",
+					"cost": "-30",
+					"weight": "-3 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 1400,
@@ -20602,6 +20683,14 @@
 					"calc": {
 						"damage": "6d pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fEBP3sId6a3_68OWm",
+					"name": "Using unloaded stats",
+					"weight": "-0.4 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -22629,6 +22718,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fP1XaMi3HoEgX9RPC",
+					"name": "Using unloaded stats",
+					"cost": "-65",
+					"weight": "-12 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 34000,
@@ -23805,6 +23903,15 @@
 					"calc": {
 						"damage": "3d pi+"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fWDcInOpgRtp15fxK",
+					"name": "Using unloaded stats",
+					"cost": "-16.4",
+					"weight": "-0.7 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -25076,6 +25183,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fWwM_MIf0Bb7l_lx2",
+					"name": "Using unloaded stats",
+					"weight": "-0.1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 50,
@@ -25305,6 +25420,15 @@
 					"calc": {
 						"damage": "2d pi-"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fJtgORP8jBsbZnF9t",
+					"name": "Using unloaded stats",
+					"cost": "-15.54",
+					"weight": "-0.2 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -26080,6 +26204,15 @@
 					"calc": {
 						"damage": "6d+1 pi"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f3aX7gXV216Kkheok",
+					"name": "Using unloaded stats",
+					"cost": "-16.35",
+					"weight": "-0.3 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -27025,6 +27158,21 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fRzgXphM4bKwCdS6-",
+					"name": "Using unloaded ammo stats",
+					"cost": "-15.5",
+					"weight": "-0.3 lb",
+					"disabled": true
+				},
+				{
+					"id": "fAYZZk1hzs_ZBrBee",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 600,
@@ -27141,6 +27289,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fU06eaZ8D0Uhb6eq9",
+					"name": "Using unloaded stats",
+					"weight": "-2 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 2000,
@@ -27195,6 +27351,14 @@
 					"calc": {
 						"damage": "6dx5 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fJ3jKzO0P73exu-LW",
+					"name": "Using unloaded stats",
+					"weight": "-2 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -32022,6 +32186,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fJvnOlNed-yMjv0e0",
+					"name": "Using unloaded stats",
+					"cost": "-42",
+					"weight": "-5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 3000,
@@ -32482,6 +32655,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fJwUGeoh-N3Guj3jP",
+					"name": "Using unloaded stats",
+					"cost": "-17.1",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 750,
@@ -32733,6 +32915,15 @@
 					"calc": {
 						"damage": "4d+1 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "ffy6jLzuJZp8rSdNa",
+					"name": "Using unloaded stats",
+					"cost": "-17.7",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -34171,6 +34362,15 @@
 					"calc": {
 						"damage": "2d+2 pi-"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fUfx8M7UBRJpg5CYL",
+					"name": "Using unloaded stats",
+					"cost": "-15.9",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -37450,6 +37650,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f5KOXMwUWVlnKs9-v",
+					"name": "Using unloaded stats",
+					"cost": "-69",
+					"weight": "-10 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 14000,
@@ -37529,6 +37738,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "freatZYRSPR0xbT3u",
+					"name": "Using unloaded stats",
+					"weight": "-12 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 23000,
@@ -37583,6 +37800,14 @@
 					"calc": {
 						"damage": "6dx5 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fDTWjuLwkdgnWe104",
+					"name": "Using unloaded stats",
+					"weight": "-12 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -38544,6 +38769,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fH5Y0vQ8q1EEInRAF",
+					"name": "Using unloaded stats",
+					"cost": "-47",
+					"weight": "-8 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 1000,
@@ -38616,6 +38850,15 @@
 					"calc": {
 						"damage": "6dx2 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fggyyX45T-twuKdGV",
+					"name": "Using unloaded stats",
+					"cost": "-315",
+					"weight": "-80 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -40000,6 +40243,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fWtPjP8IQHDnp3bkD",
+					"name": "Using unloaded stats",
+					"cost": "-17.5",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 600,
@@ -40077,6 +40329,15 @@
 					"calc": {
 						"damage": "1d+2 pi-"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f6phkpA26wKkw06tn",
+					"name": "Using unloaded stats",
+					"cost": "-17.5",
+					"weight": "-0.3 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -41646,6 +41907,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f0RjXcJrxO9NiGbnk",
+					"name": "Using unloaded stats",
+					"cost": "-21.25",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 400,
@@ -41722,6 +41992,15 @@
 					"calc": {
 						"damage": "1d-4 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "ffi5mF35ObbJ3A2KC",
+					"name": "Using unloaded stats",
+					"cost": "-17.5",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -41953,6 +42232,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fVPqpPqSx0VcS9Vtp",
+					"name": "Using unloaded stats",
+					"cost": "-18.5",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 1500,
@@ -42030,6 +42318,15 @@
 					"calc": {
 						"damage": "10d pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fX89xs0LfxyB7-Dqb",
+					"name": "Using unloaded stats",
+					"cost": "-55",
+					"weight": "-10 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -42280,6 +42577,15 @@
 					"calc": {
 						"damage": "4d pi-"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fPGmSW7bOOjEpCOYQ",
+					"name": "Using unloaded stats",
+					"cost": "-19.5",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -50194,6 +50500,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f3g3AE97JRpiaq7z_",
+					"name": "Using unloaded stats",
+					"weight": "-0.7 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 330,
@@ -54504,6 +54818,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fO_2q8BhKMF_urUTV",
+					"name": "Using unloaded stats",
+					"cost": "-55.5",
+					"weight": "-10 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 3000,
@@ -54613,6 +54936,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fZbkKwkmactpcuowr",
+					"name": "Using unloaded stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 25,
@@ -54660,6 +54991,14 @@
 					"calc": {
 						"damage": "spec. (1 yd.)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fw5O1JXhsRDPgeFAA",
+					"name": "Using unloaded stats",
+					"weight": "-5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -54997,6 +55336,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fvPlXPVYXCoAurCRT",
+					"name": "Using unloaded stats",
+					"cost": "-25",
+					"weight": "-2 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 1800,
@@ -55076,6 +55424,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fci2mAr7aKZ3ljhuv",
+					"name": "Using unloaded stats",
+					"cost": "-33",
+					"weight": "-6 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 11000,
@@ -55153,6 +55510,15 @@
 					"calc": {
 						"damage": "9d pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fwyiPwYW1xm-k9TK9",
+					"name": "Using unloaded stats",
+					"cost": "-18.6",
+					"weight": "-1.2 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -57966,6 +58332,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f8fLFUWNaQDjtFfd4",
+					"name": "Using unloaded stats",
+					"cost": "-17.4",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 300,
@@ -58042,6 +58417,15 @@
 					"calc": {
 						"damage": "1d pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fj0mWlMR848VIgnwH",
+					"name": "Using unloaded stats",
+					"cost": "-19.8",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -58121,6 +58505,14 @@
 					"calc": {
 						"damage": "6dx25 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fgZmyfN_7Z_MVi94u",
+					"name": "Using unloaded stats",
+					"weight": "-40 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -60185,6 +60577,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fIMhJz5799uah1dcY",
+					"name": "Using unloaded stats",
+					"weight": "-25 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 10000,
@@ -60239,6 +60639,14 @@
 					"calc": {
 						"damage": "6dx50 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fsYTuhpBnAdqODZoo",
+					"name": "Using unloaded stats",
+					"weight": "-25 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -61077,6 +61485,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fN1kqeLWsT37BWX8c",
+					"name": "Using unloaded stats",
+					"cost": "-18.3",
+					"weight": "-0.8 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 300,
@@ -61154,6 +61571,15 @@
 					"calc": {
 						"damage": "1d pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fg4ykz6CrQDvwfMRe",
+					"name": "Using unloaded stats",
+					"cost": "-25",
+					"weight": "-2 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -61235,6 +61661,15 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fUY6efOVh_XvxTm4R",
+					"name": "Using unloaded stats",
+					"cost": "-18",
+					"weight": "-0.7 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 150,
@@ -61312,6 +61747,15 @@
 					"calc": {
 						"damage": "4d pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fp0rRZpSP4VgvfLoW",
+					"name": "Using unloaded stats",
+					"cost": "-17.3",
+					"weight": "-0.75 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -61395,6 +61839,14 @@
 					"calc": {
 						"damage": "1d-3 cr dkb"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fOCaN3Yswz3o5IKIJ",
+					"name": "Using unloaded stats",
+					"weight": "-3 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -61564,6 +62016,15 @@
 					"calc": {
 						"damage": "4d+4 pi++"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fOUWAvGI03mAmCdwt",
+					"name": "Using unloaded stats",
+					"cost": "-20.1",
+					"weight": "-1.75 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -63867,6 +64328,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fA5quKuRT7F8aFB5h",
+					"name": "Using unloaded stats",
+					"weight": "-0.8 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 100,
@@ -64637,6 +65106,15 @@
 					"calc": {
 						"damage": "1d-2 pi-"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fYROY318Kqlx7RbaW",
+					"name": "Using unloaded stats",
+					"cost": "-15.625",
+					"weight": "-0.03 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
