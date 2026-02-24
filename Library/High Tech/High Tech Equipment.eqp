@@ -50814,6 +50814,7 @@
 			"id": "eLiFKuns2UOuOlM7B",
 			"description": "MAC AA7.62NF1, 7.62x51mm",
 			"reference": "HT137",
+			"local_notes": "Loaded with two 50-round disintegrating belts",
 			"tech_level": "7",
 			"legality_class": "1",
 			"tags": [
