@@ -19106,6 +19106,7 @@
 			"id": "eweMBFsNUgBRDkzC3",
 			"description": "Grav Minineedler",
 			"reference": "UT143",
+			"local_notes": "2B/100 shots",
 			"tech_level": "11^",
 			"legality_class": "3",
 			"tags": [
@@ -19163,6 +19164,7 @@
 			"id": "ebHQUsAn03woUW7De",
 			"description": "Grav Needle Rifle",
 			"reference": "UT143",
+			"local_notes": "C/1000 shots",
 			"tech_level": "11^",
 			"legality_class": "2",
 			"tags": [
@@ -19220,6 +19222,7 @@
 			"id": "eiqhK4fMSSfhzcC0H",
 			"description": "Grav Needler",
 			"reference": "UT143",
+			"local_notes": "C/500 shots",
 			"tech_level": "11^",
 			"legality_class": "2",
 			"tags": [
@@ -23194,6 +23197,7 @@
 			"id": "eYfjG1bepxV6LDXA8",
 			"description": "Heavy Grav Needler",
 			"reference": "UT143",
+			"local_notes": "D/4000 shots",
 			"tech_level": "11^",
 			"legality_class": "1",
 			"tags": [
@@ -52143,6 +52147,7 @@
 			"id": "ereAvfk4SYfVSH5XX",
 			"description": "Sniper Grav Gun",
 			"reference": "UT143",
+			"local_notes": "2C/1000 shots",
 			"tech_level": "11^",
 			"legality_class": "1",
 			"tags": [
