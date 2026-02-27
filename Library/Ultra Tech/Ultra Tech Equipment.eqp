@@ -948,6 +948,26 @@
 			}
 		},
 		{
+			"id": "eMw7nejkAh1Z0SpX4",
+			"description": "3mm ice",
+			"reference": "UT140",
+			"tech_level": "10",
+			"legality_class": "2",
+			"tags": [
+				"Ammunition",
+				"Weaponry"
+			],
+			"base_value": "0",
+			"base_weight": "0.025 lb",
+			"quantity": 1,
+			"calc": {
+				"value": 0,
+				"extended_value": 0,
+				"weight": "0.025 lb",
+				"extended_weight": "0.025 lb"
+			}
+		},
+		{
 			"id": "ePbxmOJP6071GlL-W",
 			"description": "3mmN",
 			"reference": "UT140",
@@ -17677,64 +17697,6 @@
 			}
 		},
 		{
-			"id": "eGi5FRaXaRoxrtEcr",
-			"description": "Gauss HMG, 7mm",
-			"reference": "UT143",
-			"local_notes": "D/1,000 shots.",
-			"tech_level": "10",
-			"legality_class": "1",
-			"tags": [
-				"Missile Weapon",
-				"Weaponry"
-			],
-			"base_value": "44000",
-			"base_weight": "64 lb",
-			"weapons": [
-				{
-					"id": "WJstukbcBFPxQFtJE",
-					"sv": 1,
-					"damage": {
-						"type": "pi-",
-						"base": "10d",
-						"armor_divisor": 3
-					},
-					"strength": "20M",
-					"accuracy": "8",
-					"range": "1,800/7,200",
-					"rate_of_fire": "100",
-					"shots": "1000(5)",
-					"bulk": "-8",
-					"recoil": "2",
-					"defaults": [
-						{
-							"type": "skill",
-							"name": "Gunner",
-							"specialization": "Machine Gun"
-						},
-						{
-							"type": "dx",
-							"modifier": -4
-						},
-						{
-							"type": "skill",
-							"name": "Gunner",
-							"modifier": -4
-						}
-					],
-					"calc": {
-						"damage": "10d(3) pi-"
-					}
-				}
-			],
-			"quantity": 1,
-			"calc": {
-				"value": 44000,
-				"extended_value": 44000,
-				"weight": "64 lb",
-				"extended_weight": "64 lb"
-			}
-		},
-		{
 			"id": "elsxkyUIf5Hn_1JMi",
 			"description": "Gauss HMG, 7mm",
 			"reference": "UT143",
@@ -17852,7 +17814,7 @@
 		},
 		{
 			"id": "eCOQaE4DsVSKPPPGQ",
-			"description": "Gauss Machine Pistol",
+			"description": "Gauss Machine Pistol, 4mm",
 			"reference": "UT142",
 			"local_notes": "2B/40 shots.",
 			"tech_level": "10",
@@ -17964,6 +17926,64 @@
 				"extended_value": 800,
 				"weight": "0.1 lb",
 				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "eGi5FRaXaRoxrtEcr",
+			"description": "Gauss Minigun, 4mm",
+			"reference": "UT143",
+			"local_notes": "D/1,000 shots.",
+			"tech_level": "10",
+			"legality_class": "1",
+			"tags": [
+				"Missile Weapon",
+				"Weaponry"
+			],
+			"base_value": "44000",
+			"base_weight": "64 lb",
+			"weapons": [
+				{
+					"id": "WJstukbcBFPxQFtJE",
+					"sv": 1,
+					"damage": {
+						"type": "pi-",
+						"base": "10d",
+						"armor_divisor": 3
+					},
+					"strength": "20M",
+					"accuracy": "8",
+					"range": "1,800/7,200",
+					"rate_of_fire": "100",
+					"shots": "1000(5)",
+					"bulk": "-8",
+					"recoil": "2",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Gunner",
+							"specialization": "Machine Gun"
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Gunner",
+							"modifier": -4
+						}
+					],
+					"calc": {
+						"damage": "10d(3) pi-"
+					}
+				}
+			],
+			"quantity": 1,
+			"calc": {
+				"value": 44000,
+				"extended_value": 44000,
+				"weight": "64 lb",
+				"extended_weight": "64 lb"
 			}
 		},
 		{
@@ -19212,6 +19232,7 @@
 			"id": "eweMBFsNUgBRDkzC3",
 			"description": "Grav Minineedler",
 			"reference": "UT143",
+			"local_notes": "2B/100 shots",
 			"tech_level": "11^",
 			"legality_class": "3",
 			"tags": [
@@ -19269,6 +19290,7 @@
 			"id": "ebHQUsAn03woUW7De",
 			"description": "Grav Needle Rifle",
 			"reference": "UT143",
+			"local_notes": "C/1000 shots",
 			"tech_level": "11^",
 			"legality_class": "2",
 			"tags": [
@@ -19326,6 +19348,7 @@
 			"id": "eiqhK4fMSSfhzcC0H",
 			"description": "Grav Needler",
 			"reference": "UT143",
+			"local_notes": "C/500 shots",
 			"tech_level": "11^",
 			"legality_class": "2",
 			"tags": [
@@ -23338,6 +23361,7 @@
 			"id": "eYfjG1bepxV6LDXA8",
 			"description": "Heavy Grav Needler",
 			"reference": "UT143",
+			"local_notes": "D/4000 shots",
 			"tech_level": "11^",
 			"legality_class": "1",
 			"tags": [
@@ -52605,6 +52629,7 @@
 			"id": "ereAvfk4SYfVSH5XX",
 			"description": "Sniper Grav Gun",
 			"reference": "UT143",
+			"local_notes": "2C/1000 shots",
 			"tech_level": "11^",
 			"legality_class": "1",
 			"tags": [
