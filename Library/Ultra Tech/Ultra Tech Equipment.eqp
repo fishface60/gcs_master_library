@@ -17607,64 +17607,6 @@
 			}
 		},
 		{
-			"id": "eGi5FRaXaRoxrtEcr",
-			"description": "Gauss HMG, 7mm",
-			"reference": "UT143",
-			"local_notes": "D/1,000 shots.",
-			"tech_level": "10",
-			"legality_class": "1",
-			"tags": [
-				"Missile Weapon",
-				"Weaponry"
-			],
-			"base_value": "44000",
-			"base_weight": "64 lb",
-			"weapons": [
-				{
-					"id": "WJstukbcBFPxQFtJE",
-					"sv": 1,
-					"damage": {
-						"type": "pi-",
-						"base": "10d",
-						"armor_divisor": 3
-					},
-					"strength": "20M",
-					"accuracy": "8",
-					"range": "1,800/7,200",
-					"rate_of_fire": "100",
-					"shots": "1000(5)",
-					"bulk": "-8",
-					"recoil": "2",
-					"defaults": [
-						{
-							"type": "skill",
-							"name": "Gunner",
-							"specialization": "Machine Gun"
-						},
-						{
-							"type": "dx",
-							"modifier": -4
-						},
-						{
-							"type": "skill",
-							"name": "Gunner",
-							"modifier": -4
-						}
-					],
-					"calc": {
-						"damage": "10d(3) pi-"
-					}
-				}
-			],
-			"quantity": 1,
-			"calc": {
-				"value": 44000,
-				"extended_value": 44000,
-				"weight": "64 lb",
-				"extended_weight": "64 lb"
-			}
-		},
-		{
 			"id": "elsxkyUIf5Hn_1JMi",
 			"description": "Gauss HMG, 7mm",
 			"reference": "UT143",
@@ -17894,6 +17836,64 @@
 				"extended_value": 800,
 				"weight": "0.1 lb",
 				"extended_weight": "0.1 lb"
+			}
+		},
+		{
+			"id": "eGi5FRaXaRoxrtEcr",
+			"description": "Gauss Minigun, 4mm",
+			"reference": "UT143",
+			"local_notes": "D/1,000 shots.",
+			"tech_level": "10",
+			"legality_class": "1",
+			"tags": [
+				"Missile Weapon",
+				"Weaponry"
+			],
+			"base_value": "44000",
+			"base_weight": "64 lb",
+			"weapons": [
+				{
+					"id": "WJstukbcBFPxQFtJE",
+					"sv": 1,
+					"damage": {
+						"type": "pi-",
+						"base": "10d",
+						"armor_divisor": 3
+					},
+					"strength": "20M",
+					"accuracy": "8",
+					"range": "1,800/7,200",
+					"rate_of_fire": "100",
+					"shots": "1000(5)",
+					"bulk": "-8",
+					"recoil": "2",
+					"defaults": [
+						{
+							"type": "skill",
+							"name": "Gunner",
+							"specialization": "Machine Gun"
+						},
+						{
+							"type": "dx",
+							"modifier": -4
+						},
+						{
+							"type": "skill",
+							"name": "Gunner",
+							"modifier": -4
+						}
+					],
+					"calc": {
+						"damage": "10d(3) pi-"
+					}
+				}
+			],
+			"quantity": 1,
+			"calc": {
+				"value": 44000,
+				"extended_value": 44000,
+				"weight": "64 lb",
+				"extended_weight": "64 lb"
 			}
 		},
 		{
