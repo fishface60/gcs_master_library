@@ -4002,6 +4002,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fnw7_WfCYtkf2RQOM",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 2300,
@@ -5800,6 +5808,12 @@
 					"local_notes": "note: manually unhide Omni-Blaster Stun",
 					"cost": "+100%",
 					"disabled": true
+				},
+				{
+					"id": "faxSbf8SL4QVxqjH4",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -5915,6 +5929,12 @@
 					"local_notes": "note: manually unhide Omni-Blaster Stun",
 					"cost": "+100%",
 					"disabled": true
+				},
+				{
+					"id": "fuJyU4sNO9Y81WG_0",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -6029,6 +6049,12 @@
 					"name": "Omni-Blaster",
 					"local_notes": "note: manually unhide Omni-Blaster Stun",
 					"cost": "+100%",
+					"disabled": true
+				},
+				{
+					"id": "f6maEEZRbJk-9E8jj",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
 					"disabled": true
 				}
 			],
@@ -10798,6 +10824,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fMYhSQEuUCFBADLyK",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 500,
@@ -11865,6 +11899,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fYM9nIIDSTLTvxTmK",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 5000,
@@ -11926,6 +11968,14 @@
 					"calc": {
 						"damage": "6dx7 (∞) cor"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fvBLaTg9wFgkaqdgG",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -14026,6 +14076,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fku7bwGoE1jK1TpO2",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 3900,
@@ -14135,6 +14193,14 @@
 					"calc": {
 						"damage": "1d-3 burn"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fT67DdkegMo6Lsl4A",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -14585,6 +14651,14 @@
 					"calc": {
 						"damage": "HT-3 aff (1 yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fa2GXfidb1Iyn4G9v",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -16671,6 +16745,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fevore_C1ADDpnnas",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 150,
@@ -16894,6 +16976,14 @@
 					"calc": {
 						"damage": "4d+2 cr dkb"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f9rIqx4a0ATwbTSdI",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -18810,6 +18900,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fUeZ87BDIGMEKZLSw",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 13000,
@@ -18910,6 +19008,14 @@
 					"calc": {
 						"damage": "3d(10) burn, sur"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f8eO3GzXfnLigaz13",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -19584,6 +19690,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fbR6WLeTlZNzQGLhm",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 600,
@@ -19702,6 +19816,14 @@
 					"calc": {
 						"damage": "1d+2 cr nkb"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fIiCuM1E05JPvrmCb",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -20474,6 +20596,14 @@
 					"calc": {
 						"damage": "4d burn"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f_YZdwqTPBiwT7Q6R",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -22367,6 +22497,12 @@
 					"local_notes": "note: manually unhide Omni-Blaster Stun",
 					"cost": "+100%",
 					"disabled": true
+				},
+				{
+					"id": "fG0MaA36GBNsdvnF5",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -23163,6 +23299,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fOAbCtT00Fjhgsmm7",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 7200,
@@ -23318,6 +23462,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fV7mPJRTfb_pyFoUU",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 20,
@@ -23380,6 +23532,14 @@
 					"calc": {
 						"damage": "4d(2) burn"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fAz3zS589sHL_Gqha",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -23709,6 +23869,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f-ZpfmEKktr6GMyua",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 5600,
@@ -23919,6 +24087,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fV66spY8CEV6raZA6",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 5600,
@@ -23981,6 +24157,14 @@
 					"calc": {
 						"damage": "4d(3) burn"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f5IutYkKVQcduf2QW",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -24140,6 +24324,14 @@
 					"calc": {
 						"damage": "4d(5) burn, sur"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f6n-nKZDy4vT7igIo",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -24570,6 +24762,12 @@
 					"local_notes": "note: manually unhide Omni-Blaster Stun",
 					"cost": "+100%",
 					"disabled": true
+				},
+				{
+					"id": "fkTj32dA-xbt1emQL",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -24633,6 +24831,14 @@
 					"calc": {
 						"damage": "7dx5 (∞) cor"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f9A52HdTDm9LZZWA5",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -24708,6 +24914,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fATEADEFTtw9JiKm_",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 250,
@@ -24770,6 +24984,14 @@
 					"calc": {
 						"damage": "2d(10) burn, sur"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fPBmRK4GacJD35XcE",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -24891,6 +25113,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f4rVIsi-qbj6I2Jcv",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 300,
@@ -24947,6 +25177,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fXJKrEwnGmdnwar3z",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 1200,
@@ -25000,6 +25238,14 @@
 					"calc": {
 						"damage": "HT-2 aff (1 yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f7vhK8wKIvmP18Fan",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -25121,6 +25367,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fqv8GScN3L8ObQ3xf",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 900,
@@ -25185,6 +25439,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fAE28g66OzkHX9Ff2",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 300,
@@ -25247,6 +25509,14 @@
 					"calc": {
 						"damage": "2d(5) burn, sur"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fz4chWwu9eTB6kZ6o",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -30551,6 +30821,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fdoD_xPCzNJuPAx5l",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 4600,
@@ -30784,6 +31062,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fbKYf57m82lQ8xQZs",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.005 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 3,
@@ -30846,6 +31132,14 @@
 					"calc": {
 						"damage": "3d(2) burn"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fiohq0xv-5mTqIEki",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -30965,6 +31259,14 @@
 					"calc": {
 						"damage": "HT-5 aff (2 yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fREDGbkBYqnLgYS9B",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -35362,6 +35664,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fXtL3Ec6bYoKANnl5",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 6500,
@@ -35416,6 +35726,14 @@
 					"calc": {
 						"damage": "Will-4 aff"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f1zTQg2_vUeEZ-s5u",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -36800,6 +37118,14 @@
 					"calc": {
 						"damage": "HT-5 aff (1 yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f02OngvwcLJ4Ifqdd",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -39394,6 +39720,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fjVBRVqWrVpuOzAG7",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 2000,
@@ -39447,6 +39781,14 @@
 					"calc": {
 						"damage": "HT-3 aff (1 yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fjoB6NIOX8JCT5SjM",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -39651,6 +39993,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fltDkadEkeZs-S68K",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 2600,
@@ -39723,6 +40073,14 @@
 					"calc": {
 						"damage": "HT-4 aff (1 yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fTJteHNyo4GMeX10n",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -42231,6 +42589,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fde5bgps53OeVNibz",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 18000,
@@ -42449,6 +42815,14 @@
 					"calc": {
 						"damage": "7d+2(2) burn ex"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f3ZTLki38MPTX9plZ",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -45030,6 +45404,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fyc7H2BYYkp9YUagH",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 14000,
@@ -45091,6 +45473,14 @@
 					"calc": {
 						"damage": "6d(3) cr ex"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f1JpO3R4E55V2VovV",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -45157,6 +45547,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f-LAWA1nFXsO9VEQE",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 27000,
@@ -45211,6 +45609,14 @@
 					"calc": {
 						"damage": "HT-4 aff (1 yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fwRmtYeLUxnNy4dGS",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -45684,6 +46090,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f9QNzr9KUsAkBlshu",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 4600,
@@ -45844,6 +46258,14 @@
 					"calc": {
 						"damage": "3d(3) burn"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fdZyWvaXYWluMqbG_",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -46036,6 +46458,14 @@
 					"calc": {
 						"damage": "4d(3) burn"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fC1a7sJiM-FELQGCC",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -48002,6 +48432,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fSD9L1sdfFqTnD_D0",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 120,
@@ -48058,6 +48496,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fqP1vE7OM3vYBqq9j",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 4000,
@@ -48112,6 +48558,14 @@
 					"calc": {
 						"damage": "3d cor (1yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f-2pLxyZnqo2wc8PG",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -49496,6 +49950,14 @@
 					"calc": {
 						"damage": "HT-2 aff (1 yd)"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f5kHpfuBPaJJhlZRX",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -52500,6 +52962,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f4MAvE2lIiIvdJhXO",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.005 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 15,
@@ -52617,6 +53087,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fH38g-IIrqQSEYV_Y",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 650,
@@ -52678,6 +53156,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "f0Sxk1lN4WSkkKfi8",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 2000,
@@ -52737,6 +53223,14 @@
 					"calc": {
 						"damage": "HT-2(5) aff"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "f6hweeR4P3rE8t1_B",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.05 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -55208,6 +55702,14 @@
 					"calc": {
 						"damage": "4d(2) burn"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fJTCzlLsxeT23xz9W",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
@@ -60188,6 +60690,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fcHyyVfguGNx-Pm7t",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 1300,
@@ -63951,6 +64461,14 @@
 					}
 				}
 			],
+			"modifiers": [
+				{
+					"id": "fI663ZS4TR06t3O00",
+					"name": "Using unloaded cell stats",
+					"weight": "-1 lb",
+					"disabled": true
+				}
+			],
 			"quantity": 1,
 			"calc": {
 				"value": 9000,
@@ -64051,6 +64569,14 @@
 					"calc": {
 						"damage": "3d(5) burn, sur"
 					}
+				}
+			],
+			"modifiers": [
+				{
+					"id": "fkKk6K2fENPxxQ2l9",
+					"name": "Using unloaded cell stats",
+					"weight": "-0.5 lb",
+					"disabled": true
 				}
 			],
 			"quantity": 1,
